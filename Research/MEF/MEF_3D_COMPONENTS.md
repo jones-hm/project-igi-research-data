@@ -1,18 +1,29 @@
 | 3D Component | Information |
 |---|---|
-| HSEM | Hardware Texture Model |
-| ATTA | Attachment point for the Extended Texture Model |
-| XTVM | Extended Texture Model |
-| TROP | Triangle Strip |
-| XVTP | Vertex |
-| CFTP | Compressed Vertex |
-| D3DR | Direct3D Render |
-| DNER | Direct3D Error |
-| XTRV | Texture Render |
-| PMTL | Phong Material |
-| HSMC | Hardware Skinning Model |
-| XTVC | Extended Texture Coordinate |
-| ECFC | Extended Compressed Vertex |
-| TAMC | Transform Animation Model |
-| HPSC | Hardware Particle System |
-| TXAN | Texture Animation |
+| HSEM | Model Info |
+| ATTA | Attachment |
+| XTVM | Magic Vertices |
+| TROP | Portal Definition |
+| XVTP | Portal Vertices |
+| CFTP | Portal Faces |
+| D3DR | Render Mesh Info |
+| DNER | Render Mesh Materials |
+| ECAF | Render Mesh Faces |
+| XTRV | Render Mesh Vertices |
+| PMTL | Render Mesh Lightmap |
+| WOLG | Glow Sprites |
+| HSMC | Collision Mesh Definition |
+| XTVC | Collision Mesh Vertices (type0) |
+| ECFC | Collision Mesh Faces (type0) |
+| TAMC | Collision Mesh Materials (type0) |
+| HPSC | Collision Mesh Spheres (type0) |
+| XTVC | Collision Mesh Vertices (type1) |
+| ECFC | Collision Mesh Faces (type1) |
+| TAMC | Collision Mesh Materials (type1) |
+| HPSC | Collision Mesh Spheres (type1) |
+| REIH | Bone Hierarchy Info |
+| MANB | Bone Names Info |
+| SEMS | Shadow Model Header |
+| XTVS | Shadow Mesh Vertices |
+| CAFS | Shadow Mesh Faces |
+| EGDE | Shadow Mesh Edges |
